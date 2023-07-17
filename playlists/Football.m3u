@@ -1,0 +1,177 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+
+--------INTRO-------
+
+#EXTINF:-1 group-title="KHO PHIM CHIẾU RẠP" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO: 0898.580.569
+https://happykids-vizio.amagi.tv/playlist.m3u8
+
+
+
+------------------K+SPORT---------------------
+
+
+ㅤ          
+#EXTINF:-1 tvg-id="klive1hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg", K+LIVE 1 (Dự Phòng)
+
+
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg", K+LIVE 2 (Dự Phòng)
+
+
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg", K+LIVE 3 (Dự Phòng)
+
+
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg",K+LIVE 1 
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluslivekey1?key=29978812211/livekplus1
+https://cocc.me/kpluslive1hd?id=kplus01/seasonid=21/i.mpd
+
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg",K+LIVE 2
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylive2?code=2998811223/livekplus2
+https://cocc.me/kpluslive2hd?id=kplus02/seasonid=32/i.mpd
+
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg",K+LIVE 3
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/livekpluskey3?code=1627739223/live03kplushd
+https://cocc.me/kpluslive3hd?id=kplus03/seasonid=46/i.mpd
+
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg",K+KIDS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeykidshd?key18/9000029912/12kidskeokey
+https://hqth.me/kpluskidshd?id=kids10/seasonid:5552666172/kids.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg",K+KIDS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v5MmYy+l2IhTvDRiE3lXgA","kid":"kS2SZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"kLankYJEAdmZHSw57nFviw","kid":"2XGSZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"0aRRVnZ7VALgmN9A5iCA1w","kid":"5nXWlZp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"++8GSN8CtWli97j9iTr24A","kid":"0oLWrel/WqLbUq1WfcNa3Q"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg",K+KIDS 3
+
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg", K+CINE FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeycinehd?key=20/2991888829/80keokeo
+https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
+
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="🅺+SPORT", K+LIFE FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
+https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg", K+CINE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="🅺+SPORT", K+LIFE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg", K+CINE HD
+
+
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="🅺+SPORT", K+LIFE HD
+
+
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg", K+SPORT1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey
+https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg", K+SPORT2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports2hd?key=66/728819923/32sportskeokey
+https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg", K+SPORT1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg", K+SPORT2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+ SPORT1 FPT
+
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg",K+SPORT 2 FPT
+
+
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/7vQMrny/mrduong-ksp1-50fps.png", K+SPORT1-MYTV
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/HFPpVb7/mrduong-ksp2-50fps.png", K+SPORT2-MYTV
+
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/7vQMrny/mrduong-ksp1-50fps.png", K+SPORT1-MYTV 2
+
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/HFPpVb7/mrduong-ksp2-50fps.png", K+SPORT2-MYTV 2
+
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", KCINE-MYTV
+
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🅺+SPORT" tvg-logo="https://i.imgur.com/PPpEIBP.png", KLIFE-MYTV
+
+
+
+
+--------------------VOV----------------------
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",VOV GIAO THÔNG HN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://quangcaongoaitroi.org/wp-content/uploads/2020/10/uu-nhuoc-diem-cua-quang-cao-tren-radio-2.jpg",VOV GIAO THÔNG TPHCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
